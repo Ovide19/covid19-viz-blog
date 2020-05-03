@@ -1,0 +1,7 @@
+flask 
+folium==0.6.0
+rtree>=0.8,<0.9
+rasterio
+earthpy
+gunicorn
+unidecode
